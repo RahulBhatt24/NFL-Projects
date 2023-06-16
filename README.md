@@ -1,3 +1,2 @@
-# NFL-Projects
-
-A series of NFL data science projects
+# Sports-Projects
+A series of passion projects trying to delve into the world of sports analytics.
